@@ -3187,7 +3187,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a95c483-d910-4770-a65b-83ec87d089be)
     )
-    (fp_text value "1k" (at 3.81 1.92) (layer "F.Fab")
+    (fp_text value "4.7k" (at 3.81 1.92) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a44d990b-16be-40e7-bf04-fd6e29e3c092)
     )
