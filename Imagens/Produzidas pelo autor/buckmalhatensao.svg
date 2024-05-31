@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="29.200001mm"
+   width="31mm"
    height="18mm"
-   viewBox="0 0 29.200001 18"
+   viewBox="0 0 31 18"
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="5.9223906"
-     inkscape:cx="69.313227"
-     inkscape:cy="43.647915"
+     inkscape:cx="66.358338"
+     inkscape:cy="26.762841"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -273,18 +273,31 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.264583"
-       x="26.443512"
-       y="11.623628"
+       x="19.751768"
+       y="11.635333"
        id="text26"><tspan
          sodipodi:role="line"
          id="tspan26"
          style="stroke-width:0.264583"
-         x="26.443512"
-         y="11.623628"><tspan
+         x="19.751768"
+         y="11.635333"><tspan
            style="font-size:1.41111px"
            id="tspan27"><tspan
    style="font-size:2.82222px"
    id="tspan32">R</tspan>o</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.264583"
+       x="27.997601"
+       y="11.080701"
+       id="text26-3"><tspan
+         sodipodi:role="line"
+         id="tspan26-0"
+         style="stroke-width:0.264583"
+         x="27.997601"
+         y="11.080701">v<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan20">o</tspan></tspan></text>
     <g
        id="use22226"
        transform="translate(-71.307762,-211.53935)">
@@ -356,5 +369,10 @@
        d="m 14.879108,5.1411861 v 2.941821"
        id="path21-1"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;marker-end:url(#Triangle)"
+       d="m 27.212865,13.679624 c 0,0 0.447483,-1.660756 0.446751,-2.510851 -7.25e-4,-0.841949 -0.446751,-2.4860244 -0.446751,-2.4860244"
+       id="path20"
+       sodipodi:nodetypes="cac" />
   </g>
 </svg>
